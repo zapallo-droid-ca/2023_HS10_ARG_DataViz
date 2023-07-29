@@ -1,0 +1,11 @@
+id;text;updateMark;updateMark_TZ
+M;Import;2023-06-27 13:59:10;Eastern Standard Time
+X;Export;2023-06-27 13:59:10;Eastern Standard Time
+DX;Domestic Export;2023-06-27 13:59:10;Eastern Standard Time
+FM;Foreign Import;2023-06-27 13:59:10;Eastern Standard Time
+MIP;Import of goods for inward processing;2023-06-27 13:59:10;Eastern Standard Time
+MOP;Import of goods after outward processing;2023-06-27 13:59:10;Eastern Standard Time
+RM;Re-import;2023-06-27 13:59:10;Eastern Standard Time
+RX;Re-export;2023-06-27 13:59:10;Eastern Standard Time
+XIP;Export of goods after inward processing;2023-06-27 13:59:10;Eastern Standard Time
+XOP;Export of goods for outward processing;2023-06-27 13:59:10;Eastern Standard Time

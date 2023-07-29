@@ -1,0 +1,11 @@
+un_flow_code;flow_desc;flow_code
+M;Import;FLOW-00
+X;Export;FLOW-01
+DX;Domestic Export;FLOW-02
+FM;Foreign Import;FLOW-03
+MIP;Import of goods for inward processing;FLOW-04
+MOP;Import of goods after outward processing;FLOW-05
+RM;Re-import;FLOW-06
+RX;Re-export;FLOW-07
+XIP;Export of goods after inward processing;FLOW-08
+XOP;Export of goods for outward processing;FLOW-09

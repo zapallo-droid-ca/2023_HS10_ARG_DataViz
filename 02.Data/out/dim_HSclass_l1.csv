@@ -1,0 +1,146 @@
+pk_l1;un_pk_l1;un_code_l1;classificationDesc;classificationType;typeCode;desc_l1;updateMark;updateMark_TZ
+S-LVL01-IDX-0000;EBOPS 2010-S-200;200;EBOPS 2010;Services;S;EBOPS 2010 Services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0001;EBOPS 2010-S-1.1;1.1;EBOPS 2010;Services;S;Goods for processing in reporting economy — Goods returned (credits), Goods received (debits);2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0002;EBOPS 2010-S-1.2;1.2;EBOPS 2010;Services;S;Goods for processing abroad — Goods sent (credits), Goods returned (debits) ;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0003;EBOPS 2010-S-10.1;10.1;EBOPS 2010;Services;S;Research and development services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0004;EBOPS 2010-S-10.2;10.2;EBOPS 2010;Services;S;Professional and management consulting services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0005;EBOPS 2010-S-10.3;10.3;EBOPS 2010;Services;S;Technical, trade-related and other business services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0006;EBOPS 2010-S-11.1;11.1;EBOPS 2010;Services;S;Audio-visual and related services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0007;EBOPS 2010-S-11.2;11.2;EBOPS 2010;Services;S;Other personal, cultural, and recreational services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0008;EBOPS 2010-S-12.1;12.1;EBOPS 2010;Services;S;Embassies and consulates;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0009;EBOPS 2010-S-12.2;12.2;EBOPS 2010;Services;S;Military units and agencies;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0010;EBOPS 2010-S-12.3;12.3;EBOPS 2010;Services;S;Other government goods and services n.i.e.;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0011;EBOPS 2010-S-3.1;3.1;EBOPS 2010;Services;S;Sea transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0012;EBOPS 2010-S-3.10;3.10;EBOPS 2010;Services;S;Electricity transmission;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0013;EBOPS 2010-S-3.11;3.11;EBOPS 2010;Services;S;Other supporting and auxiliary transport services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0014;EBOPS 2010-S-3.2;3.2;EBOPS 2010;Services;S;Air transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0015;EBOPS 2010-S-3.3;3.3;EBOPS 2010;Services;S;Other modes of transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0016;EBOPS 2010-S-3.4;3.4;EBOPS 2010;Services;S;Postal and courier services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0017;EBOPS 2010-S-3.5;3.5;EBOPS 2010;Services;S;Space transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0018;EBOPS 2010-S-3.6;3.6;EBOPS 2010;Services;S;Rail transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0019;EBOPS 2010-S-3.7;3.7;EBOPS 2010;Services;S;Road transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0020;EBOPS 2010-S-3.8;3.8;EBOPS 2010;Services;S;Inland waterway transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0021;EBOPS 2010-S-3.9;3.9;EBOPS 2010;Services;S;Pipeline transport;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0022;EBOPS 2010-S-3a.1;3a.1;EBOPS 2010;Services;S;Passenger;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0023;EBOPS 2010-S-3a.2;3a.2;EBOPS 2010;Services;S; Freight;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0024;EBOPS 2010-S-3a.3;3a.3;EBOPS 2010;Services;S; Other;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0025;EBOPS 2010-S-4.1;4.1;EBOPS 2010;Services;S;Business;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0026;EBOPS 2010-S-4.2;4.2;EBOPS 2010;Services;S;Personal;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0027;EBOPS 2010-S-4a.1;4a.1;EBOPS 2010;Services;S;Goods;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0028;EBOPS 2010-S-4a.2;4a.2;EBOPS 2010;Services;S;Local transport services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0029;EBOPS 2010-S-4a.3;4a.3;EBOPS 2010;Services;S;Accommodation services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0030;EBOPS 2010-S-4a.4;4a.4;EBOPS 2010;Services;S;Food-serving services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0031;EBOPS 2010-S-4a.5;4a.5;EBOPS 2010;Services;S;Other services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0032;EBOPS 2010-S-5.1;5.1;EBOPS 2010;Services;S;Construction abroad;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0033;EBOPS 2010-S-5.2;5.2;EBOPS 2010;Services;S;Construction in the reporting economy;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0034;EBOPS 2010-S-6.1;6.1;EBOPS 2010;Services;S;Direct insurance;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0035;EBOPS 2010-S-6.2;6.2;EBOPS 2010;Services;S;Reinsurance;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0036;EBOPS 2010-S-6.3;6.3;EBOPS 2010;Services;S;Auxiliary insurance services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0037;EBOPS 2010-S-6.4;6.4;EBOPS 2010;Services;S;Pension and standardized guarantee services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0038;EBOPS 2010-S-7.1;7.1;EBOPS 2010;Services;S;Explicitly charged and other financial services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0039;EBOPS 2010-S-7.2;7.2;EBOPS 2010;Services;S;Financial intermediation services indirectly measured (FISIM);2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0040;EBOPS 2010-S-8.1;8.1;EBOPS 2010;Services;S;Franchises and trademarks licensing fees;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0041;EBOPS 2010-S-8.2;8.2;EBOPS 2010;Services;S;Licences for the use of outcomes of research and development;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0042;EBOPS 2010-S-8.3;8.3;EBOPS 2010;Services;S;Licences to reproduce and/or distribute computer software;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0043;EBOPS 2010-S-8.4;8.4;EBOPS 2010;Services;S;Licences to reproduce and/or distribute audio-visual and related products;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0044;EBOPS 2010-S-9.1;9.1;EBOPS 2010;Services;S;Telecommunications services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0045;EBOPS 2010-S-9.2;9.2;EBOPS 2010;Services;S;Computer services;2023-06-27 13:59:10;Eastern Standard Time
+S-LVL01-IDX-0046;EBOPS 2010-S-9.3;9.3;EBOPS 2010;Services;S;Information services;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0000;HS-C-01;01;HS;Goods;C;"Animals; live";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0001;HS-C-02;02;HS;Goods;C;Meat and edible meat offal;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0002;HS-C-03;03;HS;Goods;C;Fish and crustaceans, molluscs and other aquatic invertebrates;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0003;HS-C-04;04;HS;Goods;C;"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0004;HS-C-05;05;HS;Goods;C;"Animal originated products; not elsewhere specified or included";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0005;HS-C-06;06;HS;Goods;C;"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0006;HS-C-07;07;HS;Goods;C;"Vegetables and certain roots and tubers; edible";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0007;HS-C-08;08;HS;Goods;C;"Fruit and nuts, edible; peel of citrus fruit or melons";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0008;HS-C-09;09;HS;Goods;C;Coffee, tea, mate and spices;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0009;HS-C-10;10;HS;Goods;C;Cereals;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0010;HS-C-11;11;HS;Goods;C;"Products of the milling industry; malt, starches, inulin, wheat gluten";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0011;HS-C-12;12;HS;Goods;C;"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0012;HS-C-13;13;HS;Goods;C;"Lac; gums, resins and other vegetable saps and extracts";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0013;HS-C-14;14;HS;Goods;C;"Vegetable plaiting materials; vegetable products not elsewhere specified or included";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0014;HS-C-15;15;HS;Goods;C;"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0015;HS-C-16;16;HS;Goods;C;"Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0016;HS-C-17;17;HS;Goods;C;Sugars and sugar confectionery;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0017;HS-C-18;18;HS;Goods;C;Cocoa and cocoa preparations;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0018;HS-C-19;19;HS;Goods;C;"Preparations of cereals, flour, starch or milk; pastrycooks' products";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0019;HS-C-20;20;HS;Goods;C;Preparations of vegetables, fruit, nuts or other parts of plants;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0020;HS-C-21;21;HS;Goods;C;Miscellaneous edible preparations;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0021;HS-C-22;22;HS;Goods;C;Beverages, spirits and vinegar;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0022;HS-C-23;23;HS;Goods;C;"Food industries, residues and wastes thereof; prepared animal fodder";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0023;HS-C-24;24;HS;Goods;C;"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0024;HS-C-25;25;HS;Goods;C;"Salt; sulphur; earths, stone; plastering materials, lime and cement";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0025;HS-C-26;26;HS;Goods;C;Ores, slag and ash;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0026;HS-C-27;27;HS;Goods;C;"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0027;HS-C-28;28;HS;Goods;C;"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0028;HS-C-29;29;HS;Goods;C;Organic chemicals;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0029;HS-C-30;30;HS;Goods;C;Pharmaceutical products;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0030;HS-C-31;31;HS;Goods;C;Fertilizers;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0031;HS-C-32;32;HS;Goods;C;"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0032;HS-C-33;33;HS;Goods;C;"Essential oils and resinoids; perfumery, cosmetic or toilet preparations";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0033;HS-C-34;34;HS;Goods;C;"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0034;HS-C-35;35;HS;Goods;C;"Albuminoidal substances; modified starches; glues; enzymes";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0035;HS-C-36;36;HS;Goods;C;"Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0036;HS-C-37;37;HS;Goods;C;Photographic or cinematographic goods;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0037;HS-C-38;38;HS;Goods;C;Chemical products n.e.c.;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0038;HS-C-39;39;HS;Goods;C;Plastics and articles thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0039;HS-C-40;40;HS;Goods;C;Rubber and articles thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0040;HS-C-41;41;HS;Goods;C;Raw hides and skins (other than furskins) and leather;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0041;HS-C-42;42;HS;Goods;C;"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0042;HS-C-43;43;HS;Goods;C;"Furskins and artificial fur; manufactures thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0043;HS-C-44;44;HS;Goods;C;"Wood and articles of wood; wood charcoal";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0044;HS-C-45;45;HS;Goods;C;Cork and articles of cork;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0045;HS-C-46;46;HS;Goods;C;"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0046;HS-C-47;47;HS;Goods;C;"Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0047;HS-C-48;48;HS;Goods;C;"Paper and paperboard; articles of paper pulp, of paper or paperboard";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0048;HS-C-49;49;HS;Goods;C;"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0049;HS-C-50;50;HS;Goods;C;Silk;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0050;HS-C-51;51;HS;Goods;C;"Wool, fine or coarse animal hair; horsehair yarn and woven fabric";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0051;HS-C-52;52;HS;Goods;C;Cotton;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0052;HS-C-53;53;HS;Goods;C;"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0053;HS-C-54;54;HS;Goods;C;"Man-made filaments; strip and the like of man-made textile materials";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0054;HS-C-55;55;HS;Goods;C;Man-made staple fibres;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0055;HS-C-56;56;HS;Goods;C;"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0056;HS-C-57;57;HS;Goods;C;Carpets and other textile floor coverings;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0057;HS-C-58;58;HS;Goods;C;"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0058;HS-C-59;59;HS;Goods;C;"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0059;HS-C-60;60;HS;Goods;C;"Fabrics; knitted or crocheted";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0060;HS-C-61;61;HS;Goods;C;"Apparel and clothing accessories; knitted or crocheted";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0061;HS-C-62;62;HS;Goods;C;"Apparel and clothing accessories; not knitted or crocheted";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0062;HS-C-63;63;HS;Goods;C;"Textiles, made up articles; sets; worn clothing and worn textile articles; rags";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0063;HS-C-64;64;HS;Goods;C;"Footwear; gaiters and the like; parts of such articles";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0064;HS-C-65;65;HS;Goods;C;Headgear and parts thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0065;HS-C-66;66;HS;Goods;C;"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0066;HS-C-67;67;HS;Goods;C;"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0067;HS-C-68;68;HS;Goods;C;"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0068;HS-C-69;69;HS;Goods;C;Ceramic products;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0069;HS-C-70;70;HS;Goods;C;Glass and glassware;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0070;HS-C-71;71;HS;Goods;C;"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0071;HS-C-72;72;HS;Goods;C;Iron and steel;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0072;HS-C-73;73;HS;Goods;C;Iron or steel articles;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0073;HS-C-74;74;HS;Goods;C;Copper and articles thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0074;HS-C-75;75;HS;Goods;C;Nickel and articles thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0075;HS-C-76;76;HS;Goods;C;Aluminium and articles thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0076;HS-C-77;77;HS;Goods;C;(Reserved for possible future use in the Harmonized System);2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0077;HS-C-78;78;HS;Goods;C;Lead and articles thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0078;HS-C-79;79;HS;Goods;C;Zinc and articles thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0079;HS-C-80;80;HS;Goods;C;"Tin; articles thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0080;HS-C-81;81;HS;Goods;C;"Metals; n.e.c., cermets and articles thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0081;HS-C-82;82;HS;Goods;C;"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0082;HS-C-83;83;HS;Goods;C;"Metal; miscellaneous products of base metal";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0083;HS-C-84;84;HS;Goods;C;"Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0084;HS-C-85;85;HS;Goods;C;"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0085;HS-C-86;86;HS;Goods;C;"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0086;HS-C-87;87;HS;Goods;C;"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0087;HS-C-88;88;HS;Goods;C;Aircraft, spacecraft, and parts thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0088;HS-C-89;89;HS;Goods;C;Ships, boats and floating structures;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0089;HS-C-90;90;HS;Goods;C;"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0090;HS-C-91;91;HS;Goods;C;Clocks and watches and parts thereof;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0091;HS-C-92;92;HS;Goods;C;"Musical instruments; parts and accessories of such articles";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0092;HS-C-93;93;HS;Goods;C;"Arms and ammunition; parts and accessories thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0093;HS-C-94;94;HS;Goods;C;"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0094;HS-C-95;95;HS;Goods;C;"Toys, games and sports requisites; parts and accessories thereof";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0095;HS-C-96;96;HS;Goods;C;Miscellaneous manufactured articles;2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0096;HS-C-97;97;HS;Goods;C;"Works of art; collectors' pieces and antiques";2023-06-27 13:59:10;Eastern Standard Time
+G-LVL01-IDX-0097;HS-C-99;99;HS;Goods;C;Commodities not specified according to kind;2023-06-27 13:59:10;Eastern Standard Time

@@ -1,0 +1,19 @@
+un_mot_code;mot_desc;mot_code
+0;TOTAL modes of transport;MOT-000
+1000;Air;MOT-001
+2000;Water;MOT-002
+2100;Sea;MOT-003
+2200;Inland waterway;MOT-004
+2900;Water, not else classified;MOT-005
+3000;Land;MOT-006
+3100;Railway;MOT-007
+3200;Road;MOT-008
+3900;Land, not else classified;MOT-009
+9000;Not elsewhere classified;MOT-010
+9100;Pipelines and cables;MOT-011
+9110;Pipelines;MOT-012
+9120;Cables;MOT-013
+9190;Pipelines and cables, not else classified;MOT-014
+9200;Postal consignments, mail or courier shipment;MOT-015
+9300;Self propelled goods;MOT-016
+9900;Other;MOT-017

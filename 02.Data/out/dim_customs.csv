@@ -1,0 +1,18 @@
+un_customs_code;customs_desc;customs_code
+C00;TOTAL customs procedure codes;CUS-000
+C01;Clearance for home use;CUS-001
+C02;Reimportation in the same state;CUS-002
+C03;Outright exportation;CUS-003
+C04;Customs warehouses;CUS-004
+C05;Free zone;CUS-005
+C06;Inward processing;CUS-006
+C07;Outward processing;CUS-007
+C08;Drawback;CUS-008
+C09;Processing of goods for home use;CUS-009
+C10;Carriage of goods coastwise;CUS-010
+C11;Customs offences;CUS-011
+C12;Travellers;CUS-012
+C13;Postal traffic;CUS-013
+C14;Stores;CUS-014
+C15;Relief consignments;CUS-015
+C20;CPC N.E.S.;CUS-016

@@ -1,0 +1,4 @@
+'Driver={SQL Server};'
+'Server=LATITUDE7480\SQLEXPRESS;'
+'Database=iDevelopPrd;'
+'Trusted_Connection=yes;'

@@ -1,0 +1,32 @@
+category;variable;description;fileuri
+dataitem;Trade data items;List of data items/variables used in UN Comtrade;https://comtradeapi.un.org/files/v1/app/reference/TradeDataItems.json
+freq;Frequency;The time interval at which observations occur;https://comtradeapi.un.org/files/v1/app/reference/Frequency.json
+flow;Trade Flow;Trade flow or sub-flow (exports, re-exports, imports, re-imports, etc.);https://comtradeapi.un.org/files/v1/app/reference/tradeRegimes.json
+mot;Mode of Transports;The mode of transport used when goods enter or leave the economic territory of a country;https://comtradeapi.un.org/files/v1/app/reference/ModeOfTransportCodes.json
+partner;Partner country/area;The partner country or geographic area for the respective trade flow;https://comtradeapi.un.org/files/v1/app/reference/partnerAreas.json
+reporter;Reporter;The country or geographic area to which the measured statistical phenomenon relates;https://comtradeapi.un.org/files/v1/app/reference/Reporters.json
+qtyunit;Units of quantity;The unit for quantity and alternate quantity data items;https://comtradeapi.un.org/files/v1/app/reference/QuantityUnits.json
+cmd:B4;Product;The classification of BEC Rev.4 – goods and services;https://comtradeapi.un.org/files/v1/app/reference/B4.json
+cmd:B5;Product;The classification of BEC Rev.5 – goods or services;https://comtradeapi.un.org/files/v1/app/reference/B5.json
+customs;Customs Procedure Code;Customs or statistical procedure;https://comtradeapi.un.org/files/v1/app/reference/CustomsCodes.json
+cmd:EB02;Product;The classification of  EBOPS 2002 – services;https://comtradeapi.un.org/files/v1/app/reference/EB02.json
+cmd:EB10;Product;The classification of EBOPS 2010 – services;https://comtradeapi.un.org/files/v1/app/reference/EB10.json
+cmd:EB10S;Product;The classification of EBOPS 2010 SDMX – services;https://comtradeapi.un.org/files/v1/app/reference/EB10S.json
+cmd:EB;Product;The classification of Combined EBOPS – services;https://comtradeapi.un.org/files/v1/app/reference/EB.json
+cmd:H0;Product;The classification of HS 1992 – goods;https://comtradeapi.un.org/files/v1/app/reference/H0.json
+cmd:H1;Product;The classification of HS 1996 – goods;https://comtradeapi.un.org/files/v1/app/reference/H1.json
+cmd:H2;Product;The classification of HS 2002 – goods;https://comtradeapi.un.org/files/v1/app/reference/H2.json
+cmd:H3;Product;The classification of HS 2007 – goods;https://comtradeapi.un.org/files/v1/app/reference/H3.json
+cmd:H4;Product;The classification of HS 2012 – goods;https://comtradeapi.un.org/files/v1/app/reference/H4.json
+cmd:H5;Product;The classification of HS 2017 – goods;https://comtradeapi.un.org/files/v1/app/reference/H5.json
+cmd:H6;Product;The classification of HS 2022 – goods;https://comtradeapi.un.org/files/v1/app/reference/H6.json
+cmd:HS;Product;The classification of Combined HS – goods;https://comtradeapi.un.org/files/v1/app/reference/HS.json
+cmd:S1;Product;The classification of SITC Rev.1 – goods;https://comtradeapi.un.org/files/v1/app/reference/S1.json
+cmd:S2;Product;The classification of SITC Rev.2 – goods;https://comtradeapi.un.org/files/v1/app/reference/S2.json
+cmd:S3;Product;The classification of SITC Rev.3 – goods;https://comtradeapi.un.org/files/v1/app/reference/S3.json
+cmd:S4;Product;The classification of SITC Rev.4 – goods;https://comtradeapi.un.org/files/v1/app/reference/S4.json
+cmd:SS;Product;The classification of Combined SITC – goods;https://comtradeapi.un.org/files/v1/app/reference/SS.json
+ais:dataitems;AIS Data Items;Data items used in experimental seaborne trade using AIS data;https://comtradeapi.un.org/files/v1/app/reference/AIS_DataItems.json
+ais:countriesareas;AIS Countries/Areas;Countries and Areas used in experimental seaborne trade using AIS data;https://comtradeapi.un.org/files/v1/app/reference/AIS_CountriesAreas.json
+ais:flows;AIS Trade Flow;Trade flows used in experimental seaborne trade using AIS data;https://comtradeapi.un.org/files/v1/app/reference/AIS_Flows.json
+ais:vesseltypes;AIS Vessel Types;Vessel types used in experimental seaborne trade using AIS data;https://comtradeapi.un.org/files/v1/app/reference/AIS_VesselTypes.json

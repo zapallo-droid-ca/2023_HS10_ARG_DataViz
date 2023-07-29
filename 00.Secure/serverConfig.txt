@@ -1,0 +1,2 @@
+serverName,userName,passwordCode,stgDB,prdDB,
+'LATITUDE7480\SQLEXPRESS','admin','admin','iDevelopStg','iDevelopProd'

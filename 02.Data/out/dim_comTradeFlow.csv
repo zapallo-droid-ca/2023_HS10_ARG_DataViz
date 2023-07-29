@@ -1,0 +1,11 @@
+un_flow_code;flow_desc;updateMark;updateMark_TZ;flow_code
+M;Import;2023-06-27 13:59:10;Eastern Standard Time;FLOW-00
+X;Export;2023-06-27 13:59:10;Eastern Standard Time;FLOW-01
+DX;Domestic Export;2023-06-27 13:59:10;Eastern Standard Time;FLOW-02
+FM;Foreign Import;2023-06-27 13:59:10;Eastern Standard Time;FLOW-03
+MIP;Import of goods for inward processing;2023-06-27 13:59:10;Eastern Standard Time;FLOW-04
+MOP;Import of goods after outward processing;2023-06-27 13:59:10;Eastern Standard Time;FLOW-05
+RM;Re-import;2023-06-27 13:59:10;Eastern Standard Time;FLOW-06
+RX;Re-export;2023-06-27 13:59:10;Eastern Standard Time;FLOW-07
+XIP;Export of goods after inward processing;2023-06-27 13:59:10;Eastern Standard Time;FLOW-08
+XOP;Export of goods for outward processing;2023-06-27 13:59:10;Eastern Standard Time;FLOW-09
