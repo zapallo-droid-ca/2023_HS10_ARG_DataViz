@@ -1,4 +1,4 @@
-# Argentinian Cereals International Trade
+# Argentine Cereals International Trade
 Descriptive Dashboard about International Trade of HS 10 Code Commodities Classification Products (Cereals) from Argentina to other Partners.
 
 ![01](https://github.com/zapallo-droid-ca/2023.HS10-ARG.DataViz/blob/main/03.BI/screenshots%20for%20readme/01.jpg)
